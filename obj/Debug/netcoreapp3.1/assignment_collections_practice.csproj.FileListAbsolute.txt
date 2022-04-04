@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\bin\Debug\netcoreapp3.1\assignment_collections_practice.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\bin\Debug\netcoreapp3.1\assignment_collections_practice.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\bin\Debug\netcoreapp3.1\assignment_collections_practice.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\bin\Debug\netcoreapp3.1\assignment_collections_practice.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\bin\Debug\netcoreapp3.1\assignment_collections_practice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\bin\Debug\netcoreapp3.1\assignment_collections_practice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\obj\Debug\netcoreapp3.1\assignment_collections_practice.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\obj\Debug\netcoreapp3.1\assignment_collections_practice.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\obj\Debug\netcoreapp3.1\assignment_collections_practice.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\obj\Debug\netcoreapp3.1\assignment_collections_practice.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\obj\Debug\netcoreapp3.1\assignment_collections_practice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\obj\Debug\netcoreapp3.1\assignment_collections_practice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\assignment_collections_practice\obj\Debug\netcoreapp3.1\assignment_collections_practice.genruntimeconfig.cache
