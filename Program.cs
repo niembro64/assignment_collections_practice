@@ -72,10 +72,18 @@ namespace assignment_collections_practice
 
       // each key is a name from your names array
       // each value is a randomly elected flavor from your flavors list.
+      Dictionary<string, string> peeps = new Dictionary<string, string>();
+      Random rand = new Random();
 
+      for (int i = 0; i < names.Length; i++)
+      {
+        peeps.Add(names[i], flavors[rand.Next(0, flavors.Count)]);
+      }
 
-
-
+      foreach (KeyValuePair<string, string> entry in peeps)
+      {
+        Console.Write($"{entry.Key} : {entry.Value} \n");
+      }
     }
   }
 }
